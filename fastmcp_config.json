@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "langgraph-fastmcp": {
+      "command": "python",
+      "args": ["fastmcp_langgraph_server.py"],
+      "cwd": "C:\\Users\\user\\Sematic_Search_Implementation_RAG"
+    }
+  }
+}

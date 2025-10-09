@@ -1,0 +1,9 @@
+{
+  "mcp.servers": {
+    "langgraph-docs": {
+      "command": "python",
+      "args": ["fastmcp_langgraph_server.py"],
+      "cwd": "${workspaceFolder}"
+    }
+  }
+}

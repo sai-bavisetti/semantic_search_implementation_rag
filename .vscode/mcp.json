@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "langgraph-fastmcp": {
+      "type": "stdio",
+      "command": "C:\\Users\\user\\Sematic_Search_Implementation_RAG\\.venv\\Scripts\\python.exe",
+      "args": [
+        "fastmcp_langgraph_server.py"
+      ]
+    }
+  }
+}
